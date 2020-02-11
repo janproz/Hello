@@ -1,0 +1,177 @@
+
+/***********************************************TAG SELECTOR*****************************************/
+
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+h1{
+  color: #66bfbf;
+  font-size: 5.625rem;
+  margin: 50px auto 0;
+  font-family: 'Kaushan Script', cursive;
+}
+
+h2{
+  color: #66bfbf;
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 2.5rem;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 2rem;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+hr{
+  margin: 50px auto;
+  background-color: inherit;
+  border-style: dotted none none none;
+  border-width: 5px;
+  width: 3%;
+
+}
+
+/*
+div{
+  background-color: #e1f2fb;
+  padding: 20px;
+}
+*/
+
+/***********************************************CLASS SELECTOR*****************************************/
+
+
+.topcon{
+  background-color: #5f6caf;
+  border: 0;
+  width: 100%;
+  position: relative;
+  padding-top: 100px;
+}
+
+.tag{
+  font-weight: normal;
+}
+
+.midcon{
+
+  background-color: #ffffdd;
+  padding: 30px;
+  width: 100%;
+  position: relative;
+  padding-bottom: 50px;
+}
+
+.profile{
+  padding: 20px;
+}
+
+.profpic{
+  margin-top: 50px;
+}
+
+.intro{
+  line-height: 1.5;
+  width: 400px;
+  padding: 20px;
+  position: relative;
+  margin: 0 auto;
+  text-align: justify;
+}
+
+.skills{
+  padding: 30px;
+}
+
+.computer{
+  border-radius: 90%;
+  width: 12.5rem;
+}
+
+.table{
+  padding: 10px;
+  text-align: justify;
+  position: relative;
+  margin-left: 18%;
+}
+
+.chilli{
+  line-height: 1.5;
+  position: relative;
+  margin: 50px 36% 50px;
+  text-align: justify;
+  width: 40%;
+
+}
+
+.chilli-img{
+  float: right;
+  margin-left: 10px;
+  width: 12.5rem;
+}
+
+.tabletxt{
+  line-height: 1.5;
+  width: 400px;
+}
+
+.contact{
+  background-color: inherit;
+  padding: 20px;
+}
+
+.telephone{
+  position: relative;
+}
+
+.botcon{
+  background-color: #66bfbf;
+  padding: 50px 0 20px 0;
+  width: 100%;
+}
+
+.footer-link{
+  color: #11999e;
+  text-decoration: none;
+  padding: 0 10px;
+}
+
+.footer-link:hover{
+  color: #aef6f6;
+}
+
+.tag{
+  margin: 0 auto;
+}
+.cloud1{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.cloud2{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.mountain{
+  position: relative;
+  left: auto;
+  right: auto;
+  bottom: 0;
+}
+
+
+
+
+/***********************************************ID SELECTOR*****************************************/
